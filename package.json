@@ -1,0 +1,12 @@
+{
+  "name": "node-js-adventure",
+  "version": "1.0.0",
+  "description": "A simple Node.js adventure game",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
