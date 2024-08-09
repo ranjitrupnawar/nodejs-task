@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node index.js",
     "test": "node test.js",
+    "prebuild": "npm test",
     "build": "webpack --config webpack.config.js"
   },
   "author": "",
