@@ -24,6 +24,7 @@ CMD ["node", "index.js"]
 --------------------------------------------------------------------------
 also deploy  using pm2
 
-end to end pipeline 
-
+pm2 logs 
+pm2 list 
+pm2 start app.name 
 
