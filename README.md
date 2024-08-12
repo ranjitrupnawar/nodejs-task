@@ -14,19 +14,16 @@ npm Install -Installs all dependencies listed in package.json
 
 docker file with node secure- 
 FROM node:20-alpine
-
 WORKDIR /app
-
 COPY . .
-# Expose the port the app runs on
 EXPOSE 3000
-
-# Run the application
 CMD ["node", "index.js"]
+
 
 =====================================================================
 --------------------------------------------------------------------------
 also deploy  using pm2
 
 end to end pipeline 
+
 
