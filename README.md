@@ -25,6 +25,8 @@ CMD ["node", "index.js"]
 also deploy  using pm2
 
 pm2 logs --> logs output of application
+
 pm2 list --> to see running application
+
 pm2 start app.name or id
 
