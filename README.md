@@ -30,3 +30,5 @@ pm2 list --> to see running application
 
 pm2 start app.name or id
 
+pm2 --> save to save application 
+
